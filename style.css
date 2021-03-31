@@ -1,0 +1,53 @@
+header 
+{
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+div{
+    padding: 10px;
+    
+    margin: 5px;
+    border-radius: 25px;
+   
+}
+
+.middlesection{
+    column-count: 2;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+
+.icons{width: 50px;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    
+   
+}
+
+
+.iconbox{
+   display: flex;
+   border: solid black 2px;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.middlebox{
+    border: solid black 2px; 
+}
+
+.rightimg{
+    border: solid black 4px;
+}
